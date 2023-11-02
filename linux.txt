@@ -1,0 +1,12 @@
+Hello, this side Monu Tiwari and i have keen passion in learning.
+
+I want to give two number for the use of sed command 89 67.
+
+Name,Score
+Sumit,95
+Ramlal,86
+jaklin,72
+shreya,88
+shruti,93
+
+
